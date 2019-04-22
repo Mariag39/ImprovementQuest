@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 53a7d9cfe90be764baf8af9b31cc7bd7
+timeCreated: 1462383922
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonGrandeFrameDef_0
+    21300002: dragonGrandeFrameDef_1
+    21300004: dragonGrandeFrameDef_2
+    21300006: dragonGrandeFrameDef_3
+    21300008: dragonGrandeFrameDef_4
+    21300010: dragonGrandeFrameDef_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragonGrandeFrameDef_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 322
+        width: 201
+        height: 96
+      alignment: 9
+      pivot: {x: 0.94205636, y: 0.33288607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -177.35333, y: 64.04294}
+        - {x: -189.35333, y: 57.04294}
+        - {x: -189.35333, y: 9.042938}
+        - {x: -187.35333, y: -18.957062}
+        - {x: -163.35333, y: -29.957062}
+        - {x: -145.35333, y: -31.957062}
+        - {x: 1.6466675, y: -31.957062}
+        - {x: 11.6466675, y: -20.957062}
+        - {x: 11.6466675, y: 28.042938}
+        - {x: -13.3533325, y: 64.04294}
+    - name: dragonGrandeFrameDef_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 311
+        width: 201
+        height: 90
+      alignment: 9
+      pivot: {x: 0.9359169, y: 0.47257623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.119293, y: 47.46814}
+        - {x: -188.1193, y: 47.46814}
+        - {x: -188.1193, y: -21.53186}
+        - {x: -179.1193, y: -42.53186}
+        - {x: -17.119293, y: -42.53186}
+        - {x: 12.880707, y: -7.5318604}
+        - {x: 12.880707, y: 16.46814}
+        - {x: 11.880707, y: 20.46814}
+    - name: dragonGrandeFrameDef_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 322
+        width: 201
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: 48}
+        - {x: -66.5, y: 48}
+        - {x: -100.5, y: 25}
+        - {x: -100.5, y: -48}
+        - {x: 100.5, y: -48}
+        - {x: 100.5, y: 38}
+        - {x: 92.5, y: 46}
+    - name: dragonGrandeFrameDef_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 192
+        width: 201
+        height: 102
+      alignment: 9
+      pivot: {x: 0.92363745, y: 0.3911112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.651123, y: 36.10666}
+        - {x: -18.651123, y: 39.10666}
+        - {x: -21.651123, y: 62.10666}
+        - {x: -169.65112, y: 62.10666}
+        - {x: -185.65112, y: 55.10666}
+        - {x: -185.65112, y: 7.106659}
+        - {x: -184.65112, y: -20.893341}
+        - {x: -162.65112, y: -39.89334}
+        - {x: -28.651123, y: -39.89334}
+        - {x: -17.651123, y: -37.89334}
+        - {x: 15.348877, y: -4.893341}
+        - {x: 15.348877, y: 19.106659}
+        - {x: 14.348877, y: 23.106659}
+    - name: dragonGrandeFrameDef_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 192
+        width: 201
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.5, y: 19}
+        - {x: 100.5, y: 45}
+        - {x: 13.5, y: 45}
+        - {x: -45.5, y: 37}
+        - {x: -45.5, y: 20}
+        - {x: -43.5, y: 18}
+        - {x: -40.5, y: 18}
+        - {x: -40.5, y: 16}
+        - {x: -48.5, y: 20}
+        - {x: -50.5, y: 31}
+        - {x: -76.5, y: 36}
+        - {x: -100.5, y: 18}
+        - {x: -100.5, y: -12}
+        - {x: -99.5, y: -15}
+        - {x: -83.5, y: -27}
+        - {x: -71.5, y: -40}
+        - {x: -62.5, y: -45}
+        - {x: -26.5, y: -45}
+        - {x: -24.5, y: -43}
+        - {x: -16.5, y: -45}
+        - {x: 49.5, y: -45}
+        - {x: 66.5, y: -43}
+        - {x: 96.5, y: -24}
+    - name: dragonGrandeFrameDef_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 75
+        width: 201
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.5, y: 12}
+        - {x: 100.5, y: 46}
+        - {x: 97.5, y: 51}
+        - {x: -63.5, y: 51}
+        - {x: -100.5, y: 24}
+        - {x: -100.5, y: -20}
+        - {x: -99.5, y: -21}
+        - {x: -83.5, y: -33}
+        - {x: -71.5, y: -46}
+        - {x: -62.5, y: -51}
+        - {x: -26.5, y: -51}
+        - {x: -24.5, y: -49}
+        - {x: -16.5, y: -51}
+        - {x: 49.5, y: -51}
+        - {x: 66.5, y: -49}
+        - {x: 96.5, y: -30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

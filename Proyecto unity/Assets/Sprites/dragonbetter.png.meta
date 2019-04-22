@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 0dc678862a6e60d4686e99eb471463b4
+timeCreated: 1461839348
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonbetter_0
+    21300002: dragonbetter_1
+    21300004: dragonbetter_2
+    21300006: dragonbetter_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragonbetter_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 173
+        width: 168
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 46.5}
+        - {x: -84, y: 20.5}
+        - {x: -84, y: -9.5}
+        - {x: -58, y: -35.5}
+        - {x: -6, y: -46.5}
+        - {x: 84, y: -46.5}
+        - {x: 84, y: -13.5}
+        - {x: 57, y: 46.5}
+    - name: dragonbetter_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 173
+        width: 168
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 36}
+        - {x: -84, y: 21}
+        - {x: -84, y: -16}
+        - {x: -14, y: -36}
+        - {x: 84, y: -36}
+        - {x: 84, y: -10}
+        - {x: 56, y: 36}
+    - name: dragonbetter_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 173
+        width: 168
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 46.5}
+        - {x: -39, y: -8.5}
+        - {x: -24, y: -0.5}
+        - {x: -17, y: -0.5}
+        - {x: -22, y: -1.5}
+        - {x: -84, y: -34.5}
+        - {x: -84, y: -45.5}
+        - {x: -83, y: -46.5}
+        - {x: 6, y: -46.5}
+        - {x: 84, y: -12.5}
+        - {x: 84, y: 23.5}
+        - {x: 38, y: 46.5}
+    - name: dragonbetter_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 173
+        width: 168
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 36}
+        - {x: -43, y: 32}
+        - {x: -26, y: 13}
+        - {x: -24, y: 11}
+        - {x: -11, y: 12}
+        - {x: -15, y: 11}
+        - {x: -22, y: 9}
+        - {x: -84, y: -24}
+        - {x: -84, y: -36}
+        - {x: 47, y: -36}
+        - {x: 84, y: -8}
+        - {x: 84, y: 35}
+        - {x: 78, y: 36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
